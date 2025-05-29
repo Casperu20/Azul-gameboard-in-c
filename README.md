@@ -6,15 +6,15 @@ A terminal-based implementation of the Azul board game written in C. This versio
 
 ## Features:
 
-- ✔️ Two-player mode
-- ✔️ Factory and middle area tile drafting
-- ✔️ Pattern line and wall placement validation
-- ✔️ Floor line penalty system
-- ✔️ Dynamic scoring (adjacency, rows, columns, full color sets)
-- ✔️ End-game detection when a full wall row is completed
-- ✔️ First player token handling for round order
-- ✔️ Round transitions and randomized bag refill
-- ✔️ Colorful terminal output (uses ANSI escape codes)
+-  Two-player mode
+-  Factory and middle area tile drafting
+-  Pattern line and wall placement validation
+-  Floor line penalty system
+-  Dynamic scoring (adjacency, rows, columns, full color sets)
+-  End-game detection when a full wall row is completed
+-  First player token handling for round order
+-  Round transitions and randomized bag refill
+-  Colorful terminal output (uses ANSI escape codes)
 
 ---
 
